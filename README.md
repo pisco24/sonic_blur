@@ -1,0 +1,1 @@
+# SonicBlur Frontend
