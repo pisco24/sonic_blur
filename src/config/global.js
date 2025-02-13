@@ -12,7 +12,7 @@ import ws_ic from "../assets/img/ws.webp";
 
 const IS_PRODUCT_MODE = true
 
-const ADMIN = '0x48CAd689185dc3613E18675172194B7E78CbCC77'
+const ADMIN = '0xf441753ca970A4703b2a6485505984286Be5E190'
 const PROJECT = 'sonicblur'
 const PROJECT_ID = 'dd3af9f8fb0f9af8e86e953907f7b8b8'
 
